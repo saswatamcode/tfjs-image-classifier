@@ -1,0 +1,17 @@
+{
+  "name": "tfimg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "classify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "saswatamcode",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow-models/mobilenet": "^2.0.4",
+    "@tensorflow/tfjs": "^1.7.2",
+    "@tensorflow/tfjs-node": "^1.7.2"
+  }
+}
