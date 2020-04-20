@@ -7,3 +7,8 @@ A simple image classifier built using tensorflow.js and mobilenet.
 - Run `node classify.js <image_name>`
 
 ## Example
+Run `node classify.js babyrabbit.jpeg`
+
+![Sample](screenshots/Screenshot.png)
+
+
